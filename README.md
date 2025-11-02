@@ -27,6 +27,6 @@
 
 ## 🏆 GitHub Trophies
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=vishakha-13&icon=5&color=6)](https://visitcount.itsvg.in)
