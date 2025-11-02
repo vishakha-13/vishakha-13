@@ -1,4 +1,4 @@
-![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/VukBZZGLhlgD_S-mZwcIVMAYh_kRkhChHbEfn7A4lHA.mp4)
+![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/VukBZZGLhlgD_S-mZwcIVMAYh_kRkhChHbEfn7A4lHA.gif)
 
 
 <h1 align="center">Hi There👋, I'm Vishakha</h1>💫 About Me:<br><br>
