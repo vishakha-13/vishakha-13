@@ -1,9 +1,9 @@
 ![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/ezgif-3438ffb42eeab1.gif)
 
 
-<h1 align="center">Hi There👋, I'm Vishakha</h1>💫
+<h1 align="center">Hi There👋, I'm Vishakha</h1>
 <h3 align="center">A Software Developer and AI/ML researcher from India</h3>
-About Me:<br><br>
+💫About Me:<br><br>
 🔭 I'm currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
 
 
