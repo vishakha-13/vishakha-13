@@ -1,4 +1,4 @@
-![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/ezgif-3438ffb42eeab1.gif)
+![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/ezgif-34326652263244.gif)
 
 
 <h1 align="center">Hi There👋, I'm Vishakha</h1>
