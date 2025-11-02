@@ -1,8 +1,7 @@
 ![Banner](https://github.com/siba-sundar/siba-sundar/blob/main/8%20Bit%20Japan%20Landscape.gif)
 
 
-<h1 align="center">Hi There👋, I'm Vishakha</h1>
-💫 About Me:
+<h1 align="center">Hi There👋, I'm Vishakha</h1>💫 About Me:
 🔭 I’m currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning<br><br>📫 How to reach me vishakhabhandari36@gmail.com<br><br>⚡ Fun fact I am an avid Reader
 
 
