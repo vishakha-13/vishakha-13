@@ -20,7 +20,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishakha-13&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="vishakha-13" />
   </div>
   <div>
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakha-13&theme=dark&hide_border=true" alt="vishakha-13" />
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=vishakha-13&theme=dark&hide_border=true" alt="vishakha-13" />
   </div>
 </div>
 
