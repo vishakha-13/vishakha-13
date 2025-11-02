@@ -2,9 +2,6 @@
 
 
 <h1 align="center">Hi There👋, I'm Vishakha</h1>💫 About Me:<br><br>
-🔭 I’m currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me [vishakhabhandari36@gmail.com](mailto:vishakhabhandari36@gmail.com)<br><br>⚡ Fun fact I am an avid Reader
-
-<h1 align="center">Hi There👋, I'm Vishakha</h1>💫 About Me:<br><br>
 🔭 I'm currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
 
 
