@@ -26,9 +26,7 @@
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=vishakha-13&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=vishakha-13&icon=5&color=6)](https://visitcount.itsvg.in)
