@@ -24,8 +24,6 @@
   </div>
 </div>
 
-
-## 🏆 GitHub Trophies
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 ---
