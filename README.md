@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi There👋, I'm Vishakha</h1>💫 About Me:<br><br>
-🔭 I’m currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me **vishakhabhandari36@gmail.com**<br><br>⚡ Fun fact I am an avid Reader
+🔭 I’m currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me **vishakhabhandari36@gmail.com** <br><br>⚡ Fun fact I am an avid Reader
 
 
 ## 🌐 Socials:
