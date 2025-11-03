@@ -6,6 +6,16 @@
 💫About Me:<br><br>
 🔭 I'm currently working on DriveToPinterest Bot<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vishakhaxbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishakhaxbhandari" height="30" width="40" /></a>
+<a href="https://kaggle.com/vishakhabhandari6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishakhabhandari6" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/vishakha_b13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishakha_b13" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ap22110010162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110010162" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vishakha_bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishakha_bhandari" height="30" width="40" /></a>
+<a href="mailto:vishakhabhandari36@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="vishakhabhandari36@gmail.com" height="30" width="40" /></a>
+</p>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vishakha-13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vishakhabhandari36@gmail.com) 
