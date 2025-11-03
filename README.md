@@ -13,7 +13,7 @@
 <a href="https://www.codechef.com/users/vishakha_b13" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vishakha_b13" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ap22110010162" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ap22110010162" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vishakha_bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishakha_bhandari" height="30" width="40" /></a>
-<a href="mailto:vishakhabhandari36@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" alt="vishakhabhandari36@gmail.com" height="30" width="40" style="filter: invert(36%) sepia(89%) saturate(2476%) hue-rotate(347deg) brightness(98%) contrast(92%);" /></a>
+<a href="mailto:vishakhabhandari36@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="vishakhabhandari36@gmail.com" height="30" width="40" /></a>
 </p>
 
 
