@@ -33,7 +33,7 @@
 
 ## 🏆 Developer Trophy Board
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vishakha-13&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishakha-13&theme=tokyonight)
 
 ### 🎖 Achievements Unlocked
 <p align="center">
@@ -48,11 +48,3 @@
 ![Quantum](https://img.shields.io/badge/Quantum%20Computing-Research-000000?style=for-the-badge)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=for-the-badge&logo=amazonaws)
 
-
-## 🏅 GitHub Performance
-
-![Metrics](https://metrics.lecoq.io/vishakha-13?template=terminal&achievements=1&achievements.limit=6&achievements.threshold=C&theme=tokyonight)
-
-
-## 🏆 GitHub Achievements
-![Trophies](https://github-profile-trophy.vercel.app/?username=vishakha-13&theme=flat&margin-w=10&row=1)
