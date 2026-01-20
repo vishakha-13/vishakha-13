@@ -5,7 +5,7 @@
 <h3 align="center">AI/ML and Quantum Computing Researcher from India</h3>
 💫About Me:<br><br>
 🔬 Currently working as a Research Intern (AI/ML & Quantum Computing)
-<br><br>💬 Ask me about Artificial Intelligence,Machine Learning,Deep Learning,Quantum Computing,Quantum Machine Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
+<br><br>💬 Ask me about Artificial Intelligence, Machine Learning, Deep Learning, Quantum Computing and Quantum Machine Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
