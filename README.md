@@ -31,9 +31,6 @@
   </div>
 </div>
 
-## 🏆 Developer Trophy Board
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishakha-13&theme=tokyonight)
 
 ### 🎖 Achievements Unlocked
 <p align="center">
