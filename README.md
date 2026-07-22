@@ -1,11 +1,41 @@
 ![Banner](https://github.com/vishakha-13/vishakha-13/blob/main/ezgif-34326652263244.gif)
 
 
-<h1 align="center">Hi There👋, I'm Vishakha</h1>
-<h3 align="center">AI/ML and Quantum Computing Researcher from India</h3>
-💫About Me:<br><br>
-🔬 Currently working as a Research Intern (AI/ML & Quantum Computing)
-<br><br>💬 Ask me about Artificial Intelligence, Machine Learning, Deep Learning, Quantum Computing and Quantum Machine Learning.<br><br>📫 How to reach me <a href="mailto:vishakhabhandari36@gmail.com">vishakhabhandari36@gmail.com</a><br><br>⚡ Fun fact I am an avid Reader
+<h1 align="center">Hi there 👋, I'm Vishakha Bhandari</h1>
+
+<h3 align="center">
+AI & Quantum Machine Learning Engineer • Software Engineer • AI for Drug Discovery • Deep Learning • Scientific Computing • Research
+</h3>
+
+<p align="center">
+Passionate about building intelligent systems at the intersection of Artificial Intelligence, Quantum Computing, and Scientific Computing.
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🔬 Researching **Artificial Intelligence, Quantum Machine Learning, and AI for Drug Discovery**
+* 💻 Building projects in **Deep Learning, Quantum Computing, Scientific Computing, and Software Engineering**
+* 🏆 **Grand Finalist – Smart India Hackathon (SIH)**
+* 🌱 Exploring **Generative AI, Quantum Technologies, and High-Performance Computing**
+
+## 💬 Ask Me About
+
+* Artificial Intelligence
+* Machine Learning & Deep Learning
+* Quantum Computing & Quantum Machine Learning
+* Scientific Computing
+* Drug Discovery
+
+## 📫 Connect With Me
+
+* 📧 **Email:** [vishakhabhandari36@gmail.com](mailto:vishakhabhandari36@gmail.com)
+
+## ⚡ Fun Fact
+
+📚  You'll usually find me reading research papers or a good book when I'm away from my keyboard.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
